@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "bolt-diy-expo-nativewind",
-    "slug": "bolt-diy-expo-nativewind",
+    "name": "genvibe-expo-nativewind",
+    "slug": "genvibe-expo-nativewind",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
